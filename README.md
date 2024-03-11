@@ -32,3 +32,8 @@ npm run dev:clean
 ```
 
 Next.js sollte jetzt auf Port 3000 laufen. Wenn Du `http://localhost:3000` aufmachst, müsste eine von Next.js erzeugte "Not Found"-Seite erscheinen (da steht dann: `404 This page could not be found.`). Die Inhalte dafür bauen wir dann gemeinsam.
+
+# Branches
+
+* `main` Ausgangsmaterial für das Live Coding. Einige "normale" React-Komponenten und ein paar Helfer-Funktion zum Zugriff auf die Backend API sind bereits vorhanden. Der Next.js-spezifische Teil fehlt
+* [`2024_03_08_nca-live-coding`](https://github.com/nilshartmann/nextjs-intro/tree/2024_03_08_nca-live-coding) Ergebnis nach dem [YouTube Livestream bei Never Code Alone](https://youtube.com/live/gKzcTk1zI_U)
